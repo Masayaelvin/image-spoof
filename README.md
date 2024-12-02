@@ -16,7 +16,7 @@ The tool uses a brute-force approach by appending a **nonce** (a 4-byte number) 
 
 ## Requirements
 - Python 3.8 or later (for the walrus operator `:=`).
-- The `hashlib` module (built into Python).
+- The `hashlib` module (built into Python) you don't have to install.
 
 ---
 
