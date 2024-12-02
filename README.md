@@ -33,4 +33,4 @@ The tool uses a brute-force approach by appending a **nonce** (a 4-byte number) 
 
 ### Command-Line Syntax
 ```bash
-python hash_spoof.py <prefix> <input_file> <output_file> [hash_function]
+python spoof.py <prefix> <input_file> <output_file>
